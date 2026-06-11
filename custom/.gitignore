@@ -1,0 +1,9 @@
+.ccls-cache/**
+.ccls-cache
+build/**
+build
+compile_commands.json
+.token
+.ccls
+build*
+build*/**
